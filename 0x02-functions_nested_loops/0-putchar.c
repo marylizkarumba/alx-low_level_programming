@@ -1,13 +1,11 @@
-#include <unistd.h>
+#include <stdio.h>
 #include "main.h"
-
 /**
-  * main - putchar
-  *
-  * Return: Always 0
-  */
-
- int main(void)
+ * main - starting point
+ *
+ * Return: return 0 if successful
+ */
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -18,6 +16,5 @@
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }
