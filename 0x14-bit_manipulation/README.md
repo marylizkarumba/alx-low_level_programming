@@ -1,6 +1,6 @@
-#0x14-Bit_Manipulation.
+# 0x14-Bit_Manipulation.
 
-#About
+# About
 
 #An introductory project on:
 
@@ -8,14 +8,14 @@ Bit manipulation
 
 Bitwise operators
 
-#Requirements
+# Requirements
 
 Ubuntu 20.04 LTS
 
 
-#File Descriptions
+# File Descriptions
 
-#Mandatory
+# Mandatory
 
 0-binary_to_uint.c - function that converts a binary number to an unsigned int.
 
@@ -29,7 +29,7 @@ Ubuntu 20.04 LTS
 
 5-flip_bits.c - function that returns the number of bits you would need to flip to get from one number to another.
 
-#Advanced
+# Advanced
 
 100-get_endianness.c - function that checks the endianness.
 
