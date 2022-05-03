@@ -1,13 +1,19 @@
      0x15. C - File I/O
 
+In this project, I learned about the three standard file descriptors and their POSIX names as well as the difference between function and system calls. I practiced using the I/O system calls open, close, read, and write and the flags O_RDONLY, WR_ONLY, and O_RDWR to create, open, close, read, write, set permissions of files in C.
+
+
      About
    
 An introductory project on:
 
- How to create, open, close, read and write files
- File descriptors
- System calls
- The difference between a function and a system call
+ How to create, open, close, read and write files.
+ 
+ File descriptors.
+ 
+ System calls.
+ 
+ The difference between a function and a system call.
 
       Requirements
 
