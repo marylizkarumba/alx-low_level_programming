@@ -1,6 +1,6 @@
- #0x15. C - File I/O
+ ##0x15. C - File I/O
 
- #About
+ ##About
 An introductory project on:
 
  How to create, open, close, read and write files
@@ -8,11 +8,11 @@ An introductory project on:
  System calls
  The difference between a function and a system call
 
- #Requirements
+ ##Requirements
 
 Ubuntu 20.04
 
- #File Descriptions
+ ##File Descriptions
 
   0-read_textfile.c - function that reads a text file and prints it to the POSIX standard output.
 
