@@ -2,20 +2,21 @@
 
 # About
 
-#An introductory project on:
+       
+    An introductory project on:
 
 Bit manipulation
 
 Bitwise operators
 
-# Requirements
+    Requirements
 
 Ubuntu 20.04 LTS
 
 
 # File Descriptions
 
-# Mandatory
+     Mandatory
 
 0-binary_to_uint.c - function that converts a binary number to an unsigned int.
 
