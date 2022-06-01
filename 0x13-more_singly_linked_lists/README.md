@@ -1,8 +1,8 @@
-0x13. C - More singly linked lists
+# 0x13. C - More singly linked lists
 
-File Descriptions
+# File Descriptions
 
-Mandatory
+# Mandatory
 
 
 0-print_listint.c - function that prints all the elements of a listint_t list.
@@ -27,26 +27,36 @@ Mandatory
 
 10-delete_nodeint.c - function that deletes the node at index index of a listint_t linked list.
 
-Advanced
+# Advanced
 
 
-100-reverse_listint.c - function that reverses a listint_t linked list with the specifications:
+# 100-reverse_listint.c - function that reverses a listint_t linked list with the specifications:
 
 Not allowed to use more than 1 loop
+
 Not allowed to use malloc, free or arrays
+
 Can only declare a maximum of two variables
-101-print_listint_safe.c - function that prints a listint_t linked list with the specifications:
+
+# 101-print_listint_safe.c - function that prints a listint_t linked list with the specifications:
 
 Can print lists with a loop
+
 Should go through the list only once
+
 If the function fails, exit the program with status 98
-102-free_listint_safe.c - function that frees a listint_t list with the specifications:
+
+# 102-free_listint_safe.c - function that frees a listint_t list with the specifications:
 
 Can free lists with a loop
+
 Should go though the list only once
+
 Sets the head to NULL
-103-find_loop.c - function that finds the loop in a listint_t list with the specifications:
+
+# 103-find_loop.c - function that finds the loop in a listint_t list with the specifications:
 
 Not allowed to use malloc, free or arrays
+
 Can only declare a maximum of two variables
 
