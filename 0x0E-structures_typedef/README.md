@@ -3,7 +3,7 @@
 # File Descriptions
 0-dog.h - header file with function prototypes, struct dog, and type dog_t as a new name for the type struct dog.
 
-1-init_dog.c - functoin that initializes a variable of type struct dog.
+1-init_dog.c - function that initializes a variable of type struct dog.
 
 2-print_dog.c - function that prints a struct dog.
 
