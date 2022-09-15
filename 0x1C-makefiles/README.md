@@ -17,7 +17,7 @@ Setting variables
 
 # Requirements:
 
-name of the executable: holberton
+name of the executable: school
 
 rules: all
 
@@ -29,7 +29,7 @@ variables: none
 
 # Requirements:
 
-name of the executable: holberton
+name of the executable: school
 
 rules: all
 
@@ -45,7 +45,7 @@ SRC: the .c files
 
 # Requirements:
 
-name of the executable: holberton
+name of the executable: school
 
 rules: all
 
@@ -59,8 +59,6 @@ SRC: the .c files
 
 OBJ: the .o files
 
-NAME: the name of the executable
-
 The all rule should recompile only the updated source files
 
 You are not allowed to have a list of all the .o files
@@ -69,7 +67,7 @@ You are not allowed to have a list of all the .o files
 
 # Requirements:
 
-name of the executable: holberton
+name of the executable: school
 
 rules: all, clean, oclean, fclean, re
 
@@ -90,7 +88,7 @@ SRC: the .c files
 
 OBJ: the .o files
 
-NAME: the name of the executable
+NAME: name of the executable: school
 
 RM: the command to delete files
 
@@ -104,7 +102,7 @@ The clean, oclean, fclean, and re rules should never fail
 
 # Requirements:
 
-name of the executable: holberton
+name of the executable: school
 
 rules: all, clean, oclean, fclean, re
 
@@ -126,7 +124,7 @@ SRC: the .c files
 
 OBJ: the .o files
 
-NAME: the name of the executable
+NAME: name of the executable: school
 
 RM: the command to delete files
 
@@ -168,7 +166,7 @@ The island does not contain lakes (water inside disconnected from surrounding la
 
 # Requirements:
 
-name of the executable: holberton
+name of the executable: school
 
 rules: all, clean, oclean, fclean, re
 
@@ -214,7 +212,5 @@ You are not allowed to have an $(OBJ) rule
 
 You are not allowed to use the %.o: %.c rule
 
-Your Makefile should work even if there is a file in the folder that has the same name as one of your rules
-
-Your Makefile should not compile if the header file m.h is missing
+Your Makefile should work even if there is a file in the folder that has the same name as one of your rules.
 
